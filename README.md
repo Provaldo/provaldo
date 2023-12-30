@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=provaldo&label=Profile%20views&color=0e75b6&style=flat" alt="provaldo" /> </p>
 
-- 🔭 I’m currently working as an **Error Memory Analyst in Automotive Embedded Systems**
+- 🔭 I’m currently working as a **Software developer (frontend) in Odyssey cybersecurity**
 
 - 🌱 I’m currently learning **Ethical Hacking, Typescript and UI/UX Design**
 
